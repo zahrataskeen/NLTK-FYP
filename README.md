@@ -1,3 +1,3 @@
 # NLTK-FYP
 
-Fyp for BSCS
+Fyp for BSCS univeryty
