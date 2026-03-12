@@ -1,3 +1,3 @@
 # NLTK-FYP
 
-Fyp for BSCS univerity. In Final year. 
+Fyp for BSCS univerity. In Final year.
